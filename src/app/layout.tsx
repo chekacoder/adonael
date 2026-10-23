@@ -94,6 +94,9 @@ export const metadata: Metadata = {
   },
   category: "Automotive & Hospitality",
   classification: "Enterprise, Electric Mobility Supply Chain, Contemporary Fine Dining",
+  verification: {
+    google: "google1645ac7b6224c0ae",
+  },
   icons: {
     icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%230F172A'/><path d='M50 20 L75 80 L25 80 Z' fill='%23059669'/></svg>",
   },
